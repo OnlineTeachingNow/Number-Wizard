@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1. Title Menu 1.unity
+    guid: 3385f81b0da47ba468d4284f99bffb8c
+  - enabled: 1
+    path: Assets/Scenes/2. Intro1.unity
+    guid: 743c827318862814cbd3257206360923
+  - enabled: 1
+    path: Assets/Scenes/3. Intro2.unity
+    guid: 8408665bdc144484ca2431cd70a75904
+  - enabled: 1
+    path: Assets/Scenes/4. Intro3.unity
+    guid: 66ad3138d5eb2ae4e82081a08616530b
+  - enabled: 1
+    path: Assets/Scenes/5. Intro4.unity
+    guid: ae52b2147d3272c419a69bdf70aa1457
+  - enabled: 1
+    path: Assets/Scenes/6. Start Menu.unity
+    guid: 4d84d9c1fca10bf42a6924722bc86bb2
+  - enabled: 1
+    path: Assets/Scenes/7. Gameplay.unity
+    guid: 2f964d6f6eeb8eb48bcc1c20b9ca02b5
+  - enabled: 1
+    path: Assets/Scenes/8. Player Wins.unity
+    guid: 11a63e810b8037649b06dbf3a726a98f
+  - enabled: 1
+    path: Assets/Scenes/9. Riddler Wins.unity
+    guid: 4ede2ff7a1ffb4d4bb1f8d3a816de9e6
+  m_configObjects: {}
